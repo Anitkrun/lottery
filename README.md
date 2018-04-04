@@ -1,1 +1,1 @@
-# lottory
+# lottery
